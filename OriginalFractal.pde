@@ -8,7 +8,7 @@ public void draw()
   background(0);
   stroke(255);
  
-  myFractal(500,600,120);
+  myFractal(500,600,200);
   
   
 }
